@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research projects
-date: 2020-09-17 13:32:20 +0300
+date: 2020-09-12 13:32:20 +0300
 description: What do I do and what I am curious about
 img: researchprojects3.png
 fig-caption: 'Brujas' or rail cart on the old tracks to San Cipriano, Valle del Cauca (Colombia). Photo: Maria Fernanda Torres Jimenez 
