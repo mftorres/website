@@ -3,8 +3,8 @@ layout: post
 title: Research projects
 date: 2020-09-17 13:32:20 +0300
 description: What do I do and what I am curious about
-img: researchprojects.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+img: researchprojects3.png
+fig-caption: 'Brujas' or rail cart on the old tracks to San Cipriano, Valle del Cauca (Colombia). Photo: Maria Fernanda Torres Jimenez 
 tags: [Research,Science]
 ---
 Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
