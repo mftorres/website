@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research projects
-date: 2020-08-12 00:00:00 +0300
+date: 2020-09-17 00:00:00 +0300
 description: What do I do and what I am curious about
 img: researchprojects3.png 
 tags: [Research,Science]
