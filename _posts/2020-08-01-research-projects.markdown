@@ -9,7 +9,7 @@ tags: [Research,Science]
 
 
 
-| ##Ant-plant mutualism | ##Plant evolution |
+| **Ant-plant mutualism | **Plant evolution** |
 |:-----------------------:|:-------------------:|
 | ![Antplant]({{site.baseurl}}/assets/img/antplantmutualism.png) |![plantevol]({{site.baseurl}}/assets/img/plantevolution.png)|
 |:-----------------------:|:-------------------:|
