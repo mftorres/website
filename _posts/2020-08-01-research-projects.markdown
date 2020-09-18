@@ -8,15 +8,12 @@ tags: [Research,Science]
 ---
 
 
-| Center aligned          | Center aligned      |
 |:-----------------------:|:-------------------:|
 | **Ant-plant mutualism** | **Plant evolution** | 
 | Second line             | foo                 |
-| Third line              | quux                |
-|-------------------------+---------------------+
-| Second body             |                     |
-| 2nd line                |                     |
-|-------------------------+---------------------+
+|:-----------------------:|:-------------------:|
+| image 1                 |     image 2         |
+|:-----------------------:|:-------------------:|
 
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
