@@ -8,7 +8,7 @@ tags: [Research,Science]
 ---
 
 
-+-------------------------+---------------------+
+
 | **Ant-plant mutualism** | **Plant evolution** | 
 | Second line             | foo                 |
 |:-----------------------:|:-------------------:|
