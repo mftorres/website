@@ -848,11 +848,11 @@ table tr:nth-child(even) {
 }
 
 table thead {
-  background: #fff;
-  background: -webkit-gradient(linear, left top, left bottom, from(#bed3dc), color-stop(66%, #b1cad5), to(#A9C4D1));
-  background: -webkit-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
-  background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
-  background: linear-gradient(to bottom, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
+  background: #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), color-stop(66%, #ffffff), to(#ffffff));
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 66%, #ffffff 100%);
+  background: -o-linear-gradient(top, #ffffff 0%, #ffffff 66%, #ffffff 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 66%, #ffffff 100%);
   border-bottom: 1px solid #8c8c8c;
 }
 
