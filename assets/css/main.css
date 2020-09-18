@@ -827,15 +827,15 @@ pre code {
 }
 
 table {
-  border: 1px solid #aaa;
-  background-color: #eee;
+  border: 1px solid #ffffff;
+  background-color: #ffffff;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
 }
 
 table td, table.blueTable th {
-  border: 1px solid #aaa;
+  border: 1px solid #ffffff;
   padding: 3px 2px;
 }
 
@@ -860,7 +860,7 @@ table thead th {
   font-size: 14px;
   font-weight: bold;
   color: #4f4f4f;
-  border-left: 1px solid #d0e4f5;
+  border-left: 1px solid #ffffff;
 }
 
 table thead th:first-child {
@@ -871,12 +871,12 @@ table tfoot {
   font-size: 14px;
   font-weight: bold;
   color: #fff;
-  background: #d0e4f5;
-  background: -webkit-gradient(linear, left top, left bottom, from(#dcebf7), color-stop(66%, #d4e6f6), to(#D0E4F5));
-  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  background: -o-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  border-top: 2px solid #444;
+  background: #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), color-stop(66%, #ffffff), to(#ffffff));
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 66%, #ffffff 100%);
+  background: -o-linear-gradient(top, #ffffff 0%, #ffffff 66%, #ffffff 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 66%, #ffffff 100%);
+  border-top: 2px solid #ffffff;
 }
 
 table tfoot td {
