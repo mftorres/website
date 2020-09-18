@@ -853,7 +853,7 @@ table thead {
   background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 66%, #ffffff 100%);
   background: -o-linear-gradient(top, #ffffff 0%, #ffffff 66%, #ffffff 100%);
   background: linear-gradient(to bottom, #ffffff 0%, #ffffff 66%, #ffffff 100%);
-  border-bottom: 1px solid #8c8c8c;
+  border-bottom: 1px solid #ffffff;
 }
 
 table thead th {
@@ -870,7 +870,7 @@ table thead th:first-child {
 table tfoot {
   font-size: 14px;
   font-weight: bold;
-  color: #fff;
+  color: #4f4f4f;
   background: #ffffff;
   background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), color-stop(66%, #ffffff), to(#ffffff));
   background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 66%, #ffffff 100%);
