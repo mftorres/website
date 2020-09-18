@@ -9,11 +9,7 @@ tags: [Research,Science]
 
 
 
-| **Ant-plant mutualism** | **Plant evolution** | 
-| Second line             | foo                 |
+| **Ant-plant mutualism** | **Plant evolution** |
 |:-----------------------:|:-------------------:|
-| image 1                 |     image 2         |
+| ![Antplant]({{site.baseurl}}/assets/img/antplantmutualism.png) |![plantevol]({{site.baseurl}}/assets/img/plantevolution.png)|
 |:-----------------------:|:-------------------:|
-
-
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
