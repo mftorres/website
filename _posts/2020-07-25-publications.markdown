@@ -43,7 +43,7 @@ tags: [Productivity, Workflow] # add tag
   <tr>
     <td class="tg-q2ov">image</td>
     <td class="tg-q2ov">Wasalathanthri ND, Zaidi SS, Mahrt E, Srivastava S, Yu K, Johansson KSL, Li F, <span style="font-weight:bold">Torres Jimenez MF, </span>Lo C, Allareddy V, Romero-Molina C, Mosegaard S, Heaton SM, Park JJ, Bacon CD, Yu S, Polat EO, Wasalathanthri D, Wang W, Agarwal D.</td>
-    <td class="tg-q2ov"><a href="https://science.sciencemag.org/content/363/6422/24" target="_blank" rel="noopener noreferrer">Challenging transitions.</a><span style="font-style:italic">Science.</span></td>
+    <td class="tg-q2ov"><a href="https://science.sciencemag.org/content/363/6422/24" target="_blank" rel="noopener noreferrer">Challenging transitions.</a><span style="font-style:italic"> Science.</span></td>
   </tr>
   <tr>
     <td class="tg-q2ov">image</td>
@@ -53,22 +53,22 @@ tags: [Productivity, Workflow] # add tag
   <tr>
     <td class="tg-q2ov">image</td>
     <td class="tg-q2ov"><span style="font-weight:bold">Torres MF</span> and Sanchez A.</td>
-    <td class="tg-q2ov"><a href="https://doi.org/10.1007/s00040-017-0542-2" target="_blank" rel="noopener noreferrer">Neotropical ant-plant <span style="font-style:italic">Triplaris americana </span>attracts <span style="font-style:italic">Pseudomyrmex mordax </span>ant queens during seedling stages.</a><span style="font-style:italic">Insect Sociaux.</span></td>
+    <td class="tg-q2ov"><a href="https://doi.org/10.1007/s00040-017-0542-2" target="_blank" rel="noopener noreferrer">Neotropical ant-plant <span style="font-style:italic">Triplaris americana </span>attracts <span style="font-style:italic">Pseudomyrmex mordax </span>ant queens during seedling stages.</a><span style="font-style:italic"> Insect Sociaux.</span></td>
   </tr>
   <tr>
     <td class="tg-q2ov">image</td>
     <td class="tg-q2ov">Mendoza ÁM, <span style="font-weight:bold">Torres MF</span>, Paz A, Trujillo-Arias N, López-Alvarez D, Sierra S, Forero F. and Gonzalez MA</td>
-    <td class="tg-q2ov"><a href="https://doi.org/10.1111/1755-0998.12515" target="_blank" rel="noopener noreferrer">Cryptic diversity revealed by DNA barcoding in Colombian illegally traded bird species.</a><span style="font-style:italic">Molecular Ecology Resources.</span></td>
+    <td class="tg-q2ov"><a href="https://doi.org/10.1111/1755-0998.12515" target="_blank" rel="noopener noreferrer">Cryptic diversity revealed by DNA barcoding in Colombian illegally traded bird species.</a><span style="font-style:italic"> Molecular Ecology Resources.</span></td>
   </tr>
   <tr>
     <td class="tg-q2ov">image</td>
     <td class="tg-q2ov">Stevenson PR, Link A, González-Caro S, and <span style="font-weight:bold">Torres MF</span></td>
-    <td class="tg-q2ov"><a href="https://doi.org/10.1371/journal.pone.0140751" target="_blank" rel="noopener noreferrer">Frugivory in canopy plants in a western Amazonian forest: dispersal systems, phylogenetic ensembles and keystone plants.</a><span style="font-style:italic">PloS one</span></td>
+    <td class="tg-q2ov"><a href="https://doi.org/10.1371/journal.pone.0140751" target="_blank" rel="noopener noreferrer">Frugivory in canopy plants in a western Amazonian forest: dispersal systems, phylogenetic ensembles and keystone plants.</a><span style="font-style:italic"> PloS one</span></td>
   </tr>
   <tr>
     <td class="tg-q2ov">image</td>
     <td class="tg-q2ov">Arbeláez-Cortés E, <span style="font-weight:bold">Torres MF</span>, López-Álvarez D, Palacio-Mejía JD, Mendoza ÁM and Medina CA.</td>
-    <td class="tg-q2ov"><a href="http://dx.doi.org/10.15446/abc.v20n2.47102" target="_blank" rel="noopener noreferrer">Colombian frozen biodiversity: 16 years of the tissue collection of the Humboldt Institute.</a><span style="font-style:italic">Acta Biológica Colombiana.</span></td>
+    <td class="tg-q2ov"><a href="http://dx.doi.org/10.15446/abc.v20n2.47102" target="_blank" rel="noopener noreferrer">Colombian frozen biodiversity: 16 years of the tissue collection of the Humboldt Institute.</a><span style="font-style:italic"> Acta Biológica Colombiana.</span></td>
   </tr>
 </tbody>
 </table>
