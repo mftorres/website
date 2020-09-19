@@ -48,7 +48,7 @@ tags: [Productivity, Workflow] # add tag
   <tr>
     <td class="tg-q2ov">image</td>
     <td class="tg-q2ov">Richardson JE, Madriñan S, Gomez M, Valderrama E, Luna J, Banda K, Serrano J, <span style="font-weight:bold">Torres MF</span>, Jara A, Aldana A, Cortes R, Sanchez D, Montes C.</td>
-    <td class="tg-q2ov"><a href="https://doi.org/10.1002/gj.3133" target="_blank" rel="noopener noreferrer">Using dated molecular phylogenies to reconstruct geological, climatic and biological history:examples from Colombia.</a><span style="font-style:italic">Geological Journal.</span></td>
+    <td class="tg-q2ov"><a href="https://doi.org/10.1002/gj.3133" target="_blank" rel="noopener noreferrer">Using dated molecular phylogenies to reconstruct geological, climatic and biological history: examples from Colombia.</a><span style="font-style:italic">Geological Journal.</span></td>
   </tr>
   <tr>
     <td class="tg-q2ov">image</td>
