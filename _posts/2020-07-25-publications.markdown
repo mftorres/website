@@ -38,7 +38,7 @@ tags: [Productivity, Workflow] # add tag
   <tr>
     <td class="tg-q2ov">image</td>
     <td class="tg-q2ov">Andermann T*, <span style="font-weight:bold">Torres MF</span>*, Matos P, Liberal IM, Batista R, de Sousa F, Blanco-Pastor J, Gustafsson ALS, Bacon CD, Antonelli A. *Shared first authorship</td>
-    <td class="tg-q2ov">[A technical guide for target sequence capture in ecology and evolution.](https://doi.org/10.3389/fgene.2019.01407)<span style="font-style:italic">Frontiers.</span></td>
+    <td class="tg-q2ov"><a href="https://doi.org/10.3389/fgene.2019.01407" target="_blank" rel="noopener noreferrer">A technical guide for target sequence capture in ecology and evolution</a>. <span style="font-style:italic">Frontiers.</span></td>
   </tr>
   <tr>
     <td class="tg-q2ov">image</td>
