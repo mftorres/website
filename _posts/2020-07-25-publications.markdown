@@ -9,12 +9,17 @@ tags: [Productivity, Workflow] # add tag
 <table>
 <thead>
   <tr>
-    <th>image</th>
-    <th>Torres MF, Stone G, <br>Sanchez A, Richardson JE</th>
-    <th>Comparative phylogeography of the Miconia tococa-Azteca plant-ant mutualism.<br>Submitted to Global and Planetary Change.</th>
+    <th></th>
+    <th>Authors</th>
+    <th>Paper</th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>image</td>
+    <td>Torres MF, Stone G, <br>Sanchez A, Richardson JE</td>
+    <td>Comparative phylogeography of the Miconia tococa-Azteca plant-ant mutualism.<br>Submitted to Global and Planetary Change.</td>
+  </tr>
   <tr>
     <td>image</td>
     <td>Andermann T*, Torres MF*, Matos P, Liberal IM,<br>Batista R, de Sousa F, Blanco-Pastor J, Gustafsson ALS,<br>Bacon CD, Antonelli A.<br>*Shared first authorship</td>
