@@ -18,13 +18,11 @@ tags: [Outreach, Science] # add tag
 .tg .tg-q2ov{border-color:#ffffff;font-family:'Lato', sans-serif !important;;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-7btt">2019-2020</th>
     <th class="tg-0pky">Documentary "<span style="font-weight:bold">Zafire: lessons from the Amazon"</span> with<span style="font-weight:bold"> </span><a href="https://www.endemicastudios.com/" target="_blank" rel="noopener noreferrer">Endémica Studios</a>. <a href="https://vetenskapsfestivalen.se/in-english/" target="_blank" rel="noopener noreferrer">The International Science Festival Gothenburg</a>.</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-7btt">2019</td>
     <td class="tg-0pky">Blog post <a href="http://antonelli-lab.net/2019/11/12/looking-for-palms-in-the-amazon-forest/" target="_blank" rel="noopener noreferrer">Looking for palms in the Amazon forest</a></td>
