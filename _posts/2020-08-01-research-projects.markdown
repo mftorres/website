@@ -7,6 +7,9 @@ img: researchprojects3.png
 tags: [Research,Science]
 ---
 
+
+---
+
 I am a Colombian researcher with a passion for studying biodiversity. I am particularly interested in the macro- and micro- evolutionary processes giving rise to the high biodiversity in the Neotropics. My research implements **phylogenetic, phylogenomic, and population genomics** methods to explore the drivers behind diversification.
 
 
@@ -17,6 +20,8 @@ During my career, I have been part of every aspect of doing modern science. From
 
 
 Besides research, I actively participate in science communication and community engagement activities, raising awareness about environmental and social issues in Colombia.
+
+---
 
 
 | **Ant-plant mutualisms** | **Plant evolution** |
