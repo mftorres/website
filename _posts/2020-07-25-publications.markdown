@@ -31,7 +31,7 @@ tags: [Productivity, Workflow] # add tag
 </thead>
 <tbody>
   <tr>
-    <td class="tg-q2ov">![azteca]({{site.baseurl}}/assets/img/azteca.png =100x)</td>
+    <td class="tg-q2ov">![azteca]({{site.baseurl}}/assets/img/azteca.png)</td>
     <td class="tg-q2ov"><span style="font-weight:bold">Torres MF</span>, Stone G, Sanchez A, Richardson JE</td>
     <td class="tg-q2ov">Comparative phylogeography of the <span style="font-style:italic">Miconia tococa</span>-<span style="font-style:italic">Azteca</span> plant-ant mutualism. Submitted to<span style="font-style:italic"> Global and Planetary Change.</span></td>
   </tr>
