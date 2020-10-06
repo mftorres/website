@@ -51,7 +51,7 @@ tags: [Productivity, Workflow] # add tag
     <td class="tg-q2ov"><a href="https://doi.org/10.1002/gj.3133" target="_blank" rel="noopener noreferrer">Using dated molecular phylogenies to reconstruct geological, climatic and biological history: examples from Colombia.</a><span style="font-style:italic">Geological Journal.</span></td>
   </tr>
   <tr>
-    <td class="tg-q2ov">img src="{{site.baseurl}}/assets/img/triplarispseudo.png" alt="triplaris" width="100" height="100"></td>
+    <td class="tg-q2ov"><img src="{{site.baseurl}}/assets/img/triplarispseudo.png" alt="triplaris" width="100" height="100"></td>
     <td class="tg-q2ov"><span style="font-weight:bold">Torres MF</span> and Sanchez A.</td>
     <td class="tg-q2ov"><a href="https://doi.org/10.1007/s00040-017-0542-2" target="_blank" rel="noopener noreferrer">Neotropical ant-plant <span style="font-style:italic">Triplaris americana </span>attracts <span style="font-style:italic">Pseudomyrmex mordax </span>ant queens during seedling stages.</a><span style="font-style:italic"> Insect Sociaux.</span></td>
   </tr>
