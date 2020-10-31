@@ -1,8 +1,8 @@
 # Site
 name: 'Gallery'
 description: 'Visualisations and figures'
-logo: '../assets/images/logo.png'
-favicon: '../assets/images/logo.png'
+logo: '../assets/img/logo.png'
+favicon: '../assets/img/favicon/favicon.ico'
 baseurl: '/website/gallery'
 avatar: 'assets/images/sal.jpg'
 disqus: 'Gallery'
