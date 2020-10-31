@@ -4,7 +4,9 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+disqus: 'Website'
 site-twitter: twitter.com/MFTorresJ#if your site has a twitter account, enter it here
+logo: 'assets/img/logo.png' # change for something you would use. This is from the gallery website
 
 # Author Settings
 author: Maria Fernanda Torres Jimenez # add your name
@@ -19,17 +21,32 @@ social-email: mftorres27[at]gmail[dot]com# add your Email address
 # Disqus
 discus-identifier: Mafe Torres # add your discus identifier
 
+# Defaults - gallery
+defaults:
+      
+  # all pages - gallery
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
 # Tracker
 analytics: # Google Analytics
 
+# Pagination
+paginate: 20
+
 # Build Settings
 markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  - jekyll-feed
+  - jekyll-seo-tag
 
 paginate: 8
 paginate_path: "/page/:num"
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock","README.markdown", "package.json", "grunt.js", "Gruntfile.js", "Gruntfile.coffee", "node_modules"]
