@@ -23,6 +23,12 @@ discus-identifier: Mafe Torres # add your discus identifier
 
 # Defaults - gallery
 defaults:
+
+  # all gallery posts
+  - scope:
+      path: "_gallery"
+    values:
+      layout: default_gallery
       
   # all pages - gallery
   - scope:
