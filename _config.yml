@@ -21,6 +21,8 @@ social-email: mftorres27[at]gmail[dot]com# add your Email address
 # Disqus
 discus-identifier: Mafe Torres # add your discus identifier
 
+include: ["_pages"]
+
 # Defaults - gallery
 defaults:
 
