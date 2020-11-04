@@ -30,7 +30,7 @@ defaults:
   - scope:
       path: "_gallery"
     values:
-      layout: default_gallery
+      layout: post_gallery
       
   # all pages - gallery
   - scope:
