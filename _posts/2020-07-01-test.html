@@ -1,6 +1,6 @@
 ---
 title: "Gallery"
-layout: default
+layout: default_gallery
 description: "Gallery of phylogenetic visualisations and figures"
 ---
 
@@ -17,7 +17,7 @@ description: "Gallery of phylogenetic visualisations and figures"
 <div class="container-fluid">
     
     <div class="card-columns">        
-        {% for post in paginator.posts reversed %}
+        {% for post in paginator.gallery reversed %}
             {% include card-post.html %}
         {% endfor %}            
     </div>
@@ -54,3 +54,4 @@ description: "Gallery of phylogenetic visualisations and figures"
 </div>    
   
 </section>
+
