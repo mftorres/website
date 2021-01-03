@@ -1,10 +1,8 @@
-<div class="card card-pin  raco" {% unless gallery.image %} style="min-height:250px;background:#333;" {% endunless %}>
-        
-    {% unless gallery.image %}
-    
-       <a href="{{site.baseurl}}{{gallery.url}}"  class="d-block p-3">
-        <h2 class="card-title title text-white mb-3">{{ gallery.title }}</h2>         
-           <small class="d-block text-muted">{{ gallery.content | strip_html | truncatewords:25 }}</small>
+<div class="card card-pin  raco" {% unless post.image %} style="min-height:250px;background:#333;" {% endunless %}>
+            
+       <a href="{{site.baseurl}}/test/{{post.url}}"  class="d-block p-3">
+        <h2 class="card-title title text-white mb-3">{{ post.title }}</h2>         
+           <small class="d-block text-muted">{{ post.content | strip_html | truncatewords:25 }}</small>
         <div class="more mr-2 mb-2">                
             <i class="fa fa-arrow-circle-right text-white" aria-hidden="true"></i>
         </div> 
@@ -12,21 +10,17 @@
         
     {% endunless %}
         
-    {% if gallery.image %} 
+    {% if post.image %} 
     
     <div class="wrapcat">
-        <!--
-        <span class="pinme">
-            <a data-pin-do="buttonPin" href="https://www.pinterest.com/pin/create/button/?url={{site.url}}{{site.baseurl}}{{gallery.url}}&media={{site.url}}{{site.baseurl}}/{{gallery.image}}&description={{ gallery.title }} - {{ gallery.content | strip_html | truncatewords:25 }}"></a>
-        </span>
-        -->
+
          <span class="gotopost">
-             <a href="{{site.baseurl}}{{gallery.url}}" class="text-dark"><i class="fa fa-arrow-circle-right"></i> More
+             <a href="{{site.baseurl}}/test/{{post.url}}" class="text-dark"><i class="fa fa-arrow-circle-right"></i> More
              </a>
          </span> 
 
         <div class="showcat">
-            {% for category in gallery.categories %}
+            {% for category in post.categories %}
               <a class="btn btn-sm btn-danger mb-1" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
                 {{ category }}
               </a>
@@ -36,12 +30,12 @@
     </div>
            
     
-        <a href="{{site.baseurl}}{{gallery.url}}">
+        <a href="{{site.baseurl}}/test/{{post.url}}">
          
-        <img class="card-img" src="{% if gallery.image contains "://" %}{{ gallery.image }}{% else %}{{ gallery.image | absolute_url }}{% endif %}" alt="{{ gallery.title }}">             
+        <img class="card-img" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">             
         
             <div class="notraco">
-                <h2 class="card-title title">{{ gallery.title }}</h2>
+                <h2 class="card-title title">{{ post.title }}</h2>
                 <div class="more">                
                     <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i>
                 </div>  
@@ -51,5 +45,4 @@
     
     {% endif %}
         
-   
 </div>
