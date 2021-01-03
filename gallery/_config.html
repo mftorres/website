@@ -1,0 +1,47 @@
+name: MFTorresJ - gallery
+description: 'A gallery of visualisations and figures made by me'
+# permalink: ':title/'
+permalink: /:title/
+baseurl: "/website/gallery" # the subpath of your site, e.g. /blog
+site-twitter: twitter.com/MFTorresJ
+logo: 'assets/img/baltic-logo.ico' # change for something you would use. This is from the gallery website
+
+
+include: ["_pages"]
+
+# Author Settings
+author: baltic developments # add your name
+social-twitter: evogytis# add your Twitter handle
+social-github: phylo-baltic # add your Github handle
+# social-email: # add
+
+# Defaults - gallery
+defaults:
+
+  # all posts
+  - scope:
+      path: "_postsgal"
+    values:
+      layout: post_gallery
+      
+  # all pages - gallery
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+
+# Pagination
+paginate: 20
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-jupyter-notebook
+
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
