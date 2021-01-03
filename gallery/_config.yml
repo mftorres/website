@@ -21,20 +21,20 @@ social-email: mftorres27[at]gmail[dot]com# add your Email address
 # Disqus
 discus-identifier: Mafe Torres # add your discus identifier
 
-include: ["_pages"]
+include: ["gallery/_pages"]
 
 # Defaults - gallery
 defaults:
 
   # all gallery posts
   - scope:
-      path: "_post"
+      path: "gallery/_post"
     values:
       layout: post
       
   # all pages - gallery
   - scope:
-      path: "_pages"
+      path: "gallery/_pages"
     values:
       layout: page
 
