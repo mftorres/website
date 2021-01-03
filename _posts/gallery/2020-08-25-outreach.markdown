@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default_gallery
 title: Science outreach
 date: 2020-08-17 00:00:00 +0300
 description: Science communication and outreach activities
