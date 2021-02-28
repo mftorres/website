@@ -26,7 +26,7 @@ permalink: "/gallery.html"
         {% if paginator.total_pages > 1 %}
         <div class="pagination"> 
           {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+            <a href="{{ paginator.previous_page_path | prepend: site.galleryurl | replace: '//', '/' }}">&laquo; Prev</a>
           {% else %}
             <span class="prev">&laquo; Prev</span>
           {% endif %}
@@ -35,14 +35,14 @@ permalink: "/gallery.html"
             {% if page == paginator.page %}
               <span class="webjeda">{{ page }}</span>
             {% elsif page == 1 %}
-              <a href="{{site.baseurl}}/">{{ page }}</a>
+              <a href="{{site.galleryurl}}/">{{ page }}</a>
             {% else %}
-              <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+              <a href="{{ site.paginate_path | prepend: site.galleryurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
             {% endif %}
           {% endfor %}
 
           {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+            <a href="{{ paginator.next_page_path | prepend: site.galleryurl | replace: '//', '/' }}">Next &raquo;</a>
           {% else %}
             <span class="next">Next &raquo;</span>
           {% endif %}
