@@ -31,6 +31,8 @@ Besides research, I actively participate in science communication and community 
 <br>
 <br>
 
+<div class="table">
+
 | **Ant-plant mutualisms** | **Plant trait evolution** |
 |:-----------------------:|:-------------------:|
 | ![Antplant]({{site.baseurl}}/assets/img/antplantmutualism.png) |![traitevol]({{site.baseurl}}/assets/img/plantevolution.png)|
@@ -38,3 +40,5 @@ Besides research, I actively participate in science communication and community 
 |:-----------------------:|:-------------------:|
 | ![antphylo]({{site.baseurl}}/assets/img/antphylo.png) |![arctic]({{site.baseurl}}/assets/img/oxyria.png)|
 |:-----------------------:|:-------------------:|
+
+</div>
