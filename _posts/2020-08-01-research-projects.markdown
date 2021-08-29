@@ -36,5 +36,5 @@ Besides research, I actively participate in science communication and community 
 | ![Antplant]({{site.baseurl}}/assets/img/antplantmutualism.png) |![traitevol]({{site.baseurl}}/assets/img/plantevolution.png)|
 | **Time-calibrated phylogenies** | **Adaptation and climate change** |
 |:-----------------------:|:-------------------:|
-| ![antphylo]({{site.baseurl}}/assets/img/antphylo.png) |![arctic]({{site.baseurl}}/assets/img/oxyrua.jpg)|
+| ![antphylo]({{site.baseurl}}/assets/img/antphylo.png) |![arctic]({{site.baseurl}}/assets/img/oxyria.jpg)|
 |:-----------------------:|:-------------------:|
