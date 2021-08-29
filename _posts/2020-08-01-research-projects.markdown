@@ -31,7 +31,7 @@ Besides research, I actively participate in science communication and community 
 <br>
 <br>
 
-<div class="table">
+<div class="fig_table">
 
 | **Ant-plant mutualisms** | **Plant trait evolution** |
 |:-----------------------:|:-------------------:|
