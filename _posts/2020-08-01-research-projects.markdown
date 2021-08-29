@@ -12,25 +12,29 @@ tags: [Research,Science]
 
 ---
 
-I am a Colombian researcher with a passion for studying biodiversity. I am particularly interested in the macro- and micro- evolutionary processes giving rise to the high biodiversity in the Neotropics. My research implements **phylogenetic, phylogenomic, and population genomics** methods to explore the drivers behind diversification.
+Who I am and what do I do?
+
+I am an evolutionary biologist in the field of macro-genetics with experience in phylogenetics, phylogenomics, and bioinformatics. I am interested in understanding the mechanisms leading to speciation and the impact that environmental changes have on the outcome of this process. My research uses plants, insects, and their interactions as model systems to explore sources of intra- and inter-specific genetic variation and its patterns through time and space.
 
 
-I am also interested in the dynamic geological history of the Northern Andean Cordillera in conjuntion with the demographic history of plants and ants across it. Currently, I am exploring the genetic basis behind the phenotypic differences between two varieties of the Amazonian palm and *Geonoma macrostachys*.
+My previous work includes the study of Neotropical ant-plant mutualisms and their diversification using comparative phylogenetics and population genomics, and within the context of the geological history of the Andes cordillera. I have also estimated the time of divergence in plants like orchids and palms using calibrated phylogenies based on fossil data. Currently, I am exploring the genetic basis of phenotypic traits related to environmental adaptation in Amazonian palms and Arctic herbs.
 
 
-During my career, I have been part of every aspect of doing modern science. From planning and carrying out fieldwork expeditions and experiments, to obtaining the sequence data, analysing it, visualizing and writing up the results of my research. I particularly enjoy doing fieldwork and learning new methods for analysing data. I have extensive experience in molecular biology and doing laboratory work. As a bioinformatician, I have generated referenced and de novo assemblies from whole genomes and target-capture sequences. I am very familiar with variant calling, the ”best practices” in bioinformatics, and handling large amounts of files and data.
+During my career, I have been part of every aspect of doing modern science. From planning experiments and carrying out expeditions, to obtaining the sequence data, analysing it, visualizing and writing up the results. I particularly enjoy doing fieldwork and analysing data, and I have extensive experience in molecular biology. As a bioinformatician, I have assembled and analysed referenced and *de novo* draft genomes from whole genome and target-capture data generated with short- and long-read technologies.
 
 
-Besides research, I actively participate in science communication and community engagement activities, raising awareness about environmental and social issues in Colombia.
+Besides research, I actively participate in science communication and community engagement activities, raising awareness about environmental and social issues in Colombia and around the world. I enjoy cooperative work where interactions are horizontal and everyone contributes equitably. I am also an independent researcher capable of leading projects under minimum supervision and I have a strong disposition to learn new methods.
+
 
 ---
 
 <br>
 <br>
 
-| **Ant-plant mutualisms** | **Plant evolution** |
+| **Ant-plant mutualisms** | **Plant trait evolution** |
 |:-----------------------:|:-------------------:|
-| ![Antplant]({{site.baseurl}}/assets/img/antplantmutualism.png) |![plantevol]({{site.baseurl}}/assets/img/plantevolution.png)|
+| ![Antplant]({{site.baseurl}}/assets/img/antplantmutualism.png) |![traitevol]({{site.baseurl}}/assets/img/plantevolution.png)|
+| **Time-calibrated phylogenies** | **Adaptation and climate change** |
 |:-----------------------:|:-------------------:|
-|Projects|Projects|
+| ![antphylo]({{site.baseurl}}/assets/img/antphylo.png) |![arctic]({{site.baseurl}}/assets/img/oxyrua.jpg)|
 |:-----------------------:|:-------------------:|
