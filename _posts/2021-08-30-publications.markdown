@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-date: 2020-07-25 00:00:00 +0300
+date: 2021-08-30 00:00:00 +0300
 description: Papers, manuscripts and pre-prints
 img: publications.png
 tags: [Productivity, Workflow] # add tag
