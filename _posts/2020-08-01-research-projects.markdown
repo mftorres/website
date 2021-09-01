@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research projects
+title: Who I am and what do I do?
 date: 2021-08-29 00:00:00 +0300
 description: What do I do and what I am curious about
 img: researchprojects3.png 
@@ -11,8 +11,6 @@ tags: [Research,Science]
 <br>
 
 ---
-
-Who I am and what do I do?
 
 I am an evolutionary biologist in the field of macro-genetics with experience in phylogenetics, phylogenomics, and bioinformatics. I am interested in understanding the mechanisms leading to speciation and the impact that environmental changes have on the outcome of this process. My research uses plants, insects, and their interactions as model systems to explore sources of intra- and inter-specific genetic variation and its patterns through time and space.
 
@@ -25,5 +23,6 @@ During my career, I have been part of every aspect of doing modern science. From
 
 Besides research, I actively participate in science communication and community engagement activities, raising awareness about environmental and social issues in Colombia and around the world. I enjoy cooperative work where interactions are horizontal and everyone contributes equitably. I am also an independent researcher capable of leading projects under minimum supervision and I have a strong disposition to learn new methods.
 
+Have a look at my CV <a href="mftorres.github.io/assets/docs/MFT_CV2_2021_v2.pdf" target="_blank">here.</a>
 
 ---
