@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CV and talks
-date: 2020-04-06 13:32:20 +0300
+date: 2021-09-01 13:32:20 +0300
 description: Curriculum Vitae and other material
 img:  yarumos.png
 ---

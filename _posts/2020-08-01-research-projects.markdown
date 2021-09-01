@@ -14,6 +14,9 @@ tags: [Research,Science]
 
 Who I am and what do I do?
 
+<br>
+<br>
+
 I am an evolutionary biologist in the field of macro-genetics with experience in phylogenetics, phylogenomics, and bioinformatics. I am interested in understanding the mechanisms leading to speciation and the impact that environmental changes have on the outcome of this process. My research uses plants, insects, and their interactions as model systems to explore sources of intra- and inter-specific genetic variation and its patterns through time and space.
 
 
