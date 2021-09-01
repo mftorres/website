@@ -6,6 +6,6 @@ description: Curriculum Vitae and other material
 img:  yarumos.png
 ---
 
-Have a look at my CV <a href="mftorres.github.io/assets/docs/MFT_CV2_2021_v2.pdf" target="_blank">here.</a>
+Have a look at my CV <a href="mftorres.github.io/website/assets/docs/MFT_CV2_2021_v2.pdf" target="_blank">here.</a>
 
 ---
